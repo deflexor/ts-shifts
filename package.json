@@ -10,9 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "@types/mocha": "^7.0.2",
+    "@types/yargs": "^15.0.4",
     "chai": "^4.2.0",
     "mocha": "^7.1.2",
     "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "yargs": "^15.3.1"
   }
 }
